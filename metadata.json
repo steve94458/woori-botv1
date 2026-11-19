@@ -1,0 +1,5 @@
+{
+  "name": "디스코드 봇 매니저",
+  "description": "discord.js와 Express로 구축된 디스코드 봇 관리 및 모니터링 대시보드입니다.",
+  "requestFramePermissions": []
+}
